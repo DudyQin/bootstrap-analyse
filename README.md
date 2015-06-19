@@ -1,2 +1,2 @@
 # bootstrap-analyse
-我的bootstrap源码分析
+我对bootstrap的源码分析
